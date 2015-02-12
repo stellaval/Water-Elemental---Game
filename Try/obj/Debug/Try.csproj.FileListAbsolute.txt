@@ -1,0 +1,6 @@
+c:\users\nitro\documents\visual studio 2013\Projects\ConsoleGame\Try\bin\Debug\Try.exe.config
+c:\users\nitro\documents\visual studio 2013\Projects\ConsoleGame\Try\bin\Debug\Try.exe
+c:\users\nitro\documents\visual studio 2013\Projects\ConsoleGame\Try\bin\Debug\Try.pdb
+c:\users\nitro\documents\visual studio 2013\Projects\ConsoleGame\Try\obj\Debug\Try.csprojResolveAssemblyReference.cache
+c:\users\nitro\documents\visual studio 2013\Projects\ConsoleGame\Try\obj\Debug\Try.exe
+c:\users\nitro\documents\visual studio 2013\Projects\ConsoleGame\Try\obj\Debug\Try.pdb
